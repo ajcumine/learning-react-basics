@@ -1,0 +1,9 @@
+{
+  "name": "learning-react",
+  "description": "Learning Facebook React Basics",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
